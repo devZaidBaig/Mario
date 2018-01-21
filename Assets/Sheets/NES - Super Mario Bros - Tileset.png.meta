@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 766314ba1862c864dbb8e269a3008501
+timeCreated: 1515329602
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Super Mario Bros - Tileset_0
+    21300002: NES - Super Mario Bros - Tileset_1
+    21300004: NES - Super Mario Bros - Tileset_2
+    21300006: NES - Super Mario Bros - Tileset_3
+    21300008: NES - Super Mario Bros - Tileset_4
+    21300010: NES - Super Mario Bros - Tileset_5
+    21300012: NES - Super Mario Bros - Tileset_6
+    21300014: NES - Super Mario Bros - Tileset_7
+    21300016: NES - Super Mario Bros - Tileset_8
+    21300018: NES - Super Mario Bros - Tileset_9
+    21300020: NES - Super Mario Bros - Tileset_10
+    21300022: NES - Super Mario Bros - Tileset_11
+    21300024: NES - Super Mario Bros - Tileset_12
+    21300026: NES - Super Mario Bros - Tileset_13
+    21300028: NES - Super Mario Bros - Tileset_14
+    21300030: NES - Super Mario Bros - Tileset_15
+    21300032: NES - Super Mario Bros - Tileset_16
+    21300034: NES - Super Mario Bros - Tileset_17
+    21300036: NES - Super Mario Bros - Tileset_18
+    21300038: NES - Super Mario Bros - Tileset_19
+    21300040: NES - Super Mario Bros - Tileset_20
+    21300042: NES - Super Mario Bros - Tileset_21
+    21300044: NES - Super Mario Bros - Tileset_22
+    21300046: NES - Super Mario Bros - Tileset_23
+    21300048: NES - Super Mario Bros - Tileset_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      physicsShape:
+      - - {x: -7.5, y: 8}
+        - {x: -7.5, y: -8}
+        - {x: 7.5, y: -8}
+        - {x: 7.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 7.5}
+        - {x: -7.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 7.5, y: 7.5}
+      physicsShape:
+      - - {x: -7.5, y: 7.5}
+        - {x: -7.5, y: -7.5}
+        - {x: 7.5, y: -7.5}
+        - {x: 7.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5776672, y: 6.482849}
+        - {x: -5.577667, y: 2.6382446}
+        - {x: -5.5776978, y: -5.2844543}
+        - {x: -3.4828491, y: -8}
+        - {x: 3.4398193, y: -8}
+        - {x: 5.577667, y: -5.3880615}
+        - {x: 5.5776978, y: 2.525879}
+        - {x: 3.629486, y: 6.482849}
+      physicsShape:
+      - - {x: -5, y: 8}
+        - {x: -7, y: 7}
+        - {x: -7, y: -5}
+        - {x: -5, y: -8}
+        - {x: 6, y: -8}
+        - {x: 7, y: -7}
+        - {x: 7, y: 3}
+        - {x: 6, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 416
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9828796, y: 6.388031}
+        - {x: -4.7932434, y: 3.6812744}
+        - {x: -4.793213, y: -5.6637573}
+        - {x: -2.5087585, y: -8}
+        - {x: 3.8450012, y: -8}
+        - {x: 5.8880615, y: -5.198395}
+        - {x: 5.793213, y: 3.4740906}
+        - {x: 4.034668, y: 6.293213}
+      physicsShape:
+      - - {x: -4.5, y: 8}
+        - {x: -6.5, y: 7}
+        - {x: -6.5, y: -5}
+        - {x: -4.5, y: -8}
+        - {x: 6.5, y: -8}
+        - {x: 7.5, y: -7}
+        - {x: 7.5, y: 3}
+        - {x: 6.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 416
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.8823547, y: 6.902893}
+        - {x: -5.8621216, y: 3.517517}
+        - {x: -5.95697, y: -5.637848}
+        - {x: -3.1983948, y: -7.5}
+        - {x: 3.250183, y: -7.5}
+        - {x: 5.577667, y: -4.9828796}
+        - {x: 5.5776978, y: 3.594818}
+        - {x: 3.9139404, y: 6.9310913}
+      physicsShape:
+      - - {x: -7, y: 7.5}
+        - {x: -7, y: -4.5}
+        - {x: -5, y: -7.5}
+        - {x: 6, y: -7.5}
+        - {x: 7, y: -6.5}
+        - {x: 7, y: 3.5}
+        - {x: 6, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15.5}
+        - {x: -16, y: -15.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 15.5}
+      physicsShape:
+      - - {x: -16, y: 15.5}
+        - {x: -16, y: -15.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 8}
+        - {x: -24, y: 7}
+        - {x: -24, y: -8}
+        - {x: 24, y: -8}
+        - {x: 24, y: 7}
+        - {x: 23, y: 8}
+      physicsShape:
+      - - {x: -23, y: 8}
+        - {x: -24, y: 7}
+        - {x: -24, y: -8}
+        - {x: 24, y: -8}
+        - {x: 24, y: 7}
+        - {x: 23, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 288
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 7.5}
+        - {x: -16, y: -2.5}
+        - {x: -16, y: -7.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: -1.5}
+        - {x: 8, y: 7.5}
+      physicsShape:
+      - - {x: -8, y: 7.5}
+        - {x: -16, y: -2.5}
+        - {x: -16, y: -7.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: -1.5}
+        - {x: 8, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -14}
+        - {x: -6, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 14}
+        - {x: 7, y: 15}
+      physicsShape:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -14}
+        - {x: -6, y: -15}
+        - {x: 6, y: -15}
+        - {x: 8, y: -12}
+        - {x: 8, y: 14}
+        - {x: 7, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 16}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      physicsShape:
+      - - {x: 2, y: 16}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 9}
+        - {x: 7, y: 11}
+      physicsShape:
+      - - {x: -5, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -11}
+        - {x: 8, y: -11}
+        - {x: 8, y: 9}
+        - {x: 7, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 7}
+        - {x: -1, y: 16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 7}
+        - {x: -1, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 11.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -9.5}
+        - {x: -14, y: -11.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 6.5}
+        - {x: 8, y: 11.5}
+      physicsShape:
+      - - {x: -13, y: 11.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -9.5}
+        - {x: -14, y: -11.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 6.5}
+        - {x: 8, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 11.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -8.5}
+        - {x: -12, y: -11.5}
+        - {x: 11, y: -11.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 3.5}
+        - {x: 10, y: 11.5}
+      physicsShape:
+      - - {x: -11, y: 11.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -8.5}
+        - {x: -12, y: -11.5}
+        - {x: 11, y: -11.5}
+        - {x: 16, y: -7.5}
+        - {x: 16, y: 3.5}
+        - {x: 10, y: 11.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 8}
+        - {x: -24, y: 8}
+        - {x: -24, y: -8}
+        - {x: 20, y: -8}
+        - {x: 24, y: -3}
+        - {x: 24, y: 7}
+      physicsShape:
+      - - {x: 23, y: 8}
+        - {x: -24, y: 8}
+        - {x: -24, y: -8}
+        - {x: 20, y: -8}
+        - {x: 24, y: -3}
+        - {x: 24, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 8}
+        - {x: -8.5, y: -8}
+        - {x: 8.5, y: -8}
+        - {x: 8.5, y: 8}
+      physicsShape:
+      - - {x: -8.5, y: 8}
+        - {x: -8.5, y: -8}
+        - {x: 8.5, y: -8}
+        - {x: 8.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 15}
+        - {x: -7.5, y: 4}
+        - {x: -7.5, y: -15}
+        - {x: 7.5, y: -15}
+        - {x: 7.5, y: 15}
+      physicsShape:
+      - - {x: 3.5, y: 15}
+        - {x: -7.5, y: 4}
+        - {x: -7.5, y: -15}
+        - {x: 7.5, y: -15}
+        - {x: 7.5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 289
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 5}
+        - {x: -7, y: 3}
+        - {x: -7, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 5}
+      physicsShape:
+      - - {x: -4, y: 5}
+        - {x: -7, y: 3}
+        - {x: -7, y: -15}
+        - {x: 7, y: -15}
+        - {x: 7, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 289
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 4}
+        - {x: -3, y: 15}
+      physicsShape:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 4}
+        - {x: -3, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

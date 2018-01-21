@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1e99aecb930339245ae50db5914e500c
+timeCreated: 1515516516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Super Mario Bros - Mario & Luigi_0
+    21300002: NES - Super Mario Bros - Mario & Luigi_1
+    21300004: NES - Super Mario Bros - Mario & Luigi_2
+    21300006: NES - Super Mario Bros - Mario & Luigi_3
+    21300008: NES - Super Mario Bros - Mario & Luigi_4
+    21300010: NES - Super Mario Bros - Mario & Luigi_5
+    21300012: NES - Super Mario Bros - Mario & Luigi_6
+    21300014: NES - Super Mario Bros - Mario & Luigi_7
+    21300016: NES - Super Mario Bros - Mario & Luigi_8
+    21300018: NES - Super Mario Bros - Mario & Luigi_9
+    21300020: NES - Super Mario Bros - Mario & Luigi_10
+    21300022: NES - Super Mario Bros - Mario & Luigi_11
+    21300024: NES - Super Mario Bros - Mario & Luigi_12
+    21300026: NES - Super Mario Bros - Mario & Luigi_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 367
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0908127, y: 7.833069}
+        - {x: -3.5031204, y: 7.869446}
+        - {x: -5.5052643, y: 4.72229}
+        - {x: -5.319725, y: 1.6658936}
+        - {x: -6, y: -1.098877}
+        - {x: -6, y: -7.690735}
+        - {x: -1.9825745, y: -7.6933594}
+        - {x: -0.061843872, y: -5.866394}
+        - {x: 2.1595688, y: -7.778015}
+        - {x: 6, y: -7.8762817}
+        - {x: 6, y: -4.6345215}
+        - {x: 6, y: -1.048523}
+        - {x: 4.8702393, y: 0.90289307}
+        - {x: 6, y: 2.8319092}
+        - {x: 5.7526245, y: 6.886841}
+      physicsShape: []
+      tessellationDetail: 0.19
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 637
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.6026993, y: 7.0769653}
+        - {x: -5.3718796, y: 1.6671143}
+        - {x: -6.5, y: -5.0805054}
+        - {x: -6.448723, y: -7.692322}
+        - {x: 3.0129318, y: -7.7435913}
+        - {x: 4.653984, y: -5}
+        - {x: 6.5, y: 1.4683228}
+        - {x: 6.5, y: 3.5182495}
+        - {x: 5.8333817, y: 6.9744263}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 637
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6026993, y: 7.8461914}
+        - {x: -5.987213, y: 5.230774}
+        - {x: -4.91037, y: -3.6923218}
+        - {x: -2.8335342, y: -7.5897827}
+        - {x: 1.9105225, y: -7.692322}
+        - {x: 5.064209, y: -7.102539}
+        - {x: 4.9815216, y: 0.7080078}
+        - {x: 6.5, y: 2.743042}
+        - {x: 6.5, y: 4.7052}
+        - {x: 5.8590164, y: 7.224365}
+        - {x: 2.654129, y: 7.794922}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 637
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.7311096, y: 8}
+        - {x: -7.5, y: 0.1486206}
+        - {x: -7.5, y: -3.220398}
+        - {x: -6.651947, y: -4.631653}
+        - {x: -6.6282806, y: -8}
+        - {x: -2.3730316, y: -8}
+        - {x: 6.6282654, y: -6.35907}
+        - {x: 7.4458466, y: -2.3954468}
+        - {x: 7.5, y: 0.6211548}
+        - {x: 6.30249, y: 6.9405518}
+        - {x: 2.67984, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 637
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.2993317, y: 7.0844727}
+        - {x: 3.3146515, y: 8}
+        - {x: -2.0771484, y: 8}
+        - {x: -6.2308197, y: 5.9487305}
+        - {x: -6.230835, y: -8}
+        - {x: -0.7176056, y: -8}
+        - {x: 5.9744415, y: -4.9744263}
+        - {x: 7, y: 2.6409302}
+        - {x: 7, y: 4.4105225}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.768585, y: 8}
+        - {x: -3.7454987, y: 6.7268066}
+        - {x: -4.6669006, y: 0.7437744}
+        - {x: -6.538559, y: -0.31274414}
+        - {x: -8, y: -1.9846191}
+        - {x: -8, y: -4.211975}
+        - {x: -7.051361, y: -4.2231445}
+        - {x: -7.0257263, y: -8}
+        - {x: -5.901932, y: -8}
+        - {x: -4.9428253, y: -6.9744873}
+        - {x: -3.9031525, y: -7.98114}
+        - {x: 0.39379883, y: -8}
+        - {x: 8, y: -6.102722}
+        - {x: 8, y: -1.0744629}
+        - {x: 5.3335266, y: -0.87286377}
+        - {x: 8, y: 1.6690063}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 7, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -6, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 15}
+        - {x: 4, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -8, y: 13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 14}
+        - {x: 6, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -9}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 2, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 654
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 637
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9350662, y: 8}
+        - {x: -3.1062546, y: 8}
+        - {x: -6.1133347, y: 5.963379}
+        - {x: -6.1133347, y: -8}
+        - {x: -1.7807083, y: -8}
+        - {x: -0.040504456, y: -5.2703857}
+        - {x: 1.7778931, y: -7.963623}
+        - {x: 6.1133423, y: -8}
+        - {x: 6.0666122, y: 4.380127}
+        - {x: 5.3506393, y: 7.03656}
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -223.5, y: -288.5}
+      - {x: -146.5, y: -343.5}
+      - {x: 215.5, y: -343.5}
+      - {x: 223.5, y: -307.5}
+      - {x: 223.5, y: -283.5}
+      - {x: -223.5, y: -283.5}
+    - - {x: -223.5, y: -292.5}
+      - {x: -223.5, y: -314.5}
+      - {x: -175.5, y: -314.5}
+      - {x: -170.5, y: -313.5}
+      - {x: -168.5, y: -307.5}
+      - {x: -168.5, y: -292.5}
+    - - {x: -223.5, y: -225.5}
+      - {x: -145.5, y: -281.5}
+      - {x: 215.5, y: -281.5}
+      - {x: 223.5, y: -244.5}
+      - {x: 223.5, y: -220.5}
+      - {x: -223.5, y: -220.5}
+    - - {x: -223.5, y: -229.5}
+      - {x: -223.5, y: -251.5}
+      - {x: -171.5, y: -251.5}
+      - {x: -168.5, y: -249.5}
+      - {x: -168.5, y: -230.5}
+      - {x: -171.5, y: -229.5}
+    - - {x: -223.5, y: -162.5}
+      - {x: -152.5, y: -218.5}
+      - {x: 215.5, y: -218.5}
+      - {x: 223.5, y: -180.5}
+      - {x: 223.5, y: -157.5}
+      - {x: -223.5, y: -157.5}
+    - - {x: -223.5, y: -166.5}
+      - {x: -223.5, y: -188.5}
+      - {x: -156.5, y: -188.5}
+      - {x: -156.5, y: -175.5}
+      - {x: -167.5, y: -166.5}
+    - - {x: -223.5, y: -99.5}
+      - {x: -146.5, y: -99.5}
+      - {x: -223.5, y: -102.5}
+      - {x: -223.5, y: -124.5}
+      - {x: -222.5, y: -125.5}
+      - {x: -203.5, y: -126.5}
+      - {x: -150.5, y: -155.5}
+      - {x: 215.5, y: -155.5}
+      - {x: 223.5, y: -117.5}
+      - {x: 223.5, y: -94.5}
+      - {x: -223.5, y: -94.5}
+    - - {x: -223.5, y: -31.5}
+      - {x: -223.5, y: -48.5}
+      - {x: -180.5, y: -92.5}
+      - {x: 215.5, y: -92.5}
+      - {x: 223.5, y: -88.5}
+      - {x: 223.5, y: -31.5}
+    - - {x: -223.5, y: -40.5}
+      - {x: -223.5, y: -61.5}
+      - {x: -222.5, y: -62.5}
+      - {x: -170.5, y: -62.5}
+      - {x: -167.5, y: -60.5}
+      - {x: -167.5, y: -41.5}
+      - {x: -168.5, y: -40.5}
+    - - {x: -223.5, y: 31.5}
+      - {x: -223.5, y: 26.5}
+      - {x: -144.5, y: -29.5}
+      - {x: 215.5, y: -29.5}
+      - {x: 223.5, y: 8.5}
+      - {x: 223.5, y: 31.5}
+    - - {x: -223.5, y: 22.5}
+      - {x: -223.5, y: 0.5}
+      - {x: -169.5, y: 0.5}
+      - {x: -168.5, y: 4.5}
+      - {x: -168.5, y: 20.5}
+      - {x: -171.5, y: 22.5}
+    - - {x: -223.5, y: 94.5}
+      - {x: -223.5, y: 89.5}
+      - {x: -144.5, y: 33.5}
+      - {x: 215.5, y: 33.5}
+      - {x: 223.5, y: 71.5}
+      - {x: 223.5, y: 94.5}
+    - - {x: -223.5, y: 85.5}
+      - {x: -223.5, y: 63.5}
+      - {x: -169.5, y: 63.5}
+      - {x: -168.5, y: 67.5}
+      - {x: -168.5, y: 83.5}
+      - {x: -171.5, y: 85.5}
+    - - {x: -223.5, y: 157.5}
+      - {x: -223.5, y: 152.5}
+      - {x: -144.5, y: 96.5}
+      - {x: 215.5, y: 96.5}
+      - {x: 223.5, y: 134.5}
+      - {x: 223.5, y: 157.5}
+    - - {x: -223.5, y: 148.5}
+      - {x: -223.5, y: 126.5}
+      - {x: -188.5, y: 126.5}
+      - {x: -168.5, y: 135.5}
+      - {x: -168.5, y: 146.5}
+      - {x: -171.5, y: 148.5}
+    - - {x: -223.5, y: 220.5}
+      - {x: -223.5, y: 215.5}
+      - {x: -144.5, y: 159.5}
+      - {x: 215.5, y: 159.5}
+      - {x: 223.5, y: 197.5}
+      - {x: 223.5, y: 220.5}
+    - - {x: -223.5, y: 211.5}
+      - {x: -223.5, y: 198.5}
+      - {x: -157.5, y: 198.5}
+      - {x: -157.5, y: 211.5}
+    - - {x: -223.5, y: 283.5}
+      - {x: -223.5, y: 268.5}
+      - {x: -144.5, y: 222.5}
+      - {x: 215.5, y: 222.5}
+      - {x: 223.5, y: 260.5}
+      - {x: 223.5, y: 283.5}
+    - - {x: -193.5, y: 261.5}
+      - {x: -169.5, y: 261.5}
+      - {x: -169.5, y: 274.5}
+      - {x: -193.5, y: 274.5}
+    - - {x: -146.5, y: 343.5}
+      - {x: -146.5, y: 287.5}
+      - {x: 18.5, y: 287.5}
+      - {x: 213.5, y: 290.5}
+      - {x: 215.5, y: 292.5}
+      - {x: 215.5, y: 343.5}
+    - - {x: -193.5, y: 337.5}
+      - {x: -193.5, y: 324.5}
+      - {x: -169.5, y: 324.5}
+      - {x: -168.5, y: 326.5}
+      - {x: -168.5, y: 336.5}
+      - {x: -170.5, y: 337.5}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
