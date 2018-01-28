@@ -20,7 +20,7 @@ public class PowerUp : MonoBehaviour {
     void FixedUpdate()
     {
 
-        body.velocity = new Vector2(speed, body.position.y);
+        body.velocity = new Vector2(speed, body.velocity.y);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
